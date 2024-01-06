@@ -20,7 +20,7 @@ Follow these simple steps to get started with the Age Calculator:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/age-calculator.git
+   git clone https://github.com/your-username/age-calculator
    ```
 
 2. **Open the HTML File:**
